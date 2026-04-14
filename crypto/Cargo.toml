@@ -35,7 +35,7 @@ ethers-core = { version = "1.0.0", features = ["eip712"] }
 hex = "0.4.3"
 hex-literal = "0.3.4"
 hkdf = "0.12.3"
-rand = "0.8.5"
+rand = "0.9.3"
 rand_chacha = "0.3.1"
 rayon = "1.5.3"
 ruint = { version = "1.5.0", features = ["ark-ff"], optional = true }
